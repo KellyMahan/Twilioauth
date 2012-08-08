@@ -17,10 +17,8 @@ Gem::Specification.new do |s|
   s.require_path = 'lib'
   
   s.requirements << "twilio-ruby"
-  s.requirements << "activesupport"
   
   s.add_dependency "twilio-ruby"
-  s.add_dependency "activesupport", ">= 3.0.0"
   
   
 end
