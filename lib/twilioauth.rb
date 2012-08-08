@@ -1,5 +1,4 @@
 require "twilio-ruby"
-require 'active_support/secure_random'
 
 module Twilioauth
   
