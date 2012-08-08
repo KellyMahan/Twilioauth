@@ -1,8 +1,8 @@
 PATH
   remote: .
   specs:
-    twilioauth (0.0.0)
-      active_support
+    twilioauth (0.0.1)
+      active_support (>= 3.0.0)
       twilio-ruby
 
 GEM
