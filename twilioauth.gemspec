@@ -3,7 +3,7 @@ $:.unshift lib unless $:.include?(lib)
 
 Gem::Specification.new do |s|
   s.name        = 'twilioauth'
-  s.version     = '0.0.3'
+  s.version     = '0.0.4'
   s.date        = '2012-08-08'
   s.summary     = "2 factor auth for twilio"
   s.description = "2 factor auth for twilio"
