@@ -1,0 +1,27 @@
+PATH
+  remote: .
+  specs:
+    twilioauth (0.0.0)
+      active_support
+      twilio-ruby
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    active_support (3.0.0)
+      activesupport (= 3.0.0)
+    activesupport (3.0.0)
+    builder (3.0.0)
+    jwt (0.1.5)
+      multi_json (>= 1.0)
+    multi_json (1.3.6)
+    twilio-ruby (3.7.1)
+      builder (>= 2.1.2)
+      jwt (>= 0.1.2)
+      multi_json (>= 1.3.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  twilioauth!
