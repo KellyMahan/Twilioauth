@@ -38,9 +38,12 @@ def check_auth
     redirect_to "/login?pin_failed=true"
   end
 end
-
-
 ```
+
+TODO
+----
+
+Roll twilioauth into a rails engine with controllers and forms to handle everything for the developer.
 
 History
 ----------
