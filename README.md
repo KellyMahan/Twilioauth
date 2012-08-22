@@ -47,6 +47,7 @@ Roll twilioauth into a rails engine with controllers and forms to handle everyth
 
 History
 ----------
+0.0.5 removed a lot of unnecessary random charcter code. 
 
 0.0.4 first working version for rails integration
 
